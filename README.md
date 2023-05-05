@@ -1,4 +1,12 @@
 ### Hi there 👋
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=beatriz2005.beatriz2005)](https://github.com/beatriz2005)
+
+## Bem-vindo!
+<ul>
+  <li>Estudante de Ciência da Computação na UFSCAR.
+  <li>Fluente em Portugues e Inglês. Básico em Alemão.
+  <li>Iniciante em C.
+</ul>
 
 <!--
 **Beatriz2005/Beatriz2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
