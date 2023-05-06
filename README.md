@@ -4,7 +4,7 @@
 ## Bem-vindo!
 <ul>
   <li>Estudante de Ciência da Computação na UFSCAR.
-  <li>Fluente em Portugues e Inglês.
+  <li>Fluente em Português e Inglês.
   <li>Iniciante em C.
 </ul>
 
