@@ -3,9 +3,8 @@
 
 ## Bem-vindo!
 <ul>
-  <li>Estudante de Ciência da Computação na UFSCar.
-  <li>Fluente em Português e Inglês.
-  <li>Iniciante em C.
+  <li>Computer Science|UFSCar
+  <li>Portuguese|English|French
 </ul>
 
 <!--
