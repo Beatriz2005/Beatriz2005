@@ -3,8 +3,8 @@
 
 ## Bem-vindo!
 <ul>
-  <li>Computer Science|UFSCar
-  <li>Portuguese|English|French
+  <li>Computer Science | UFSCar
+  <li>Portuguese | English | French
 </ul>
 
 <!--
