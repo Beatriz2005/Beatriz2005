@@ -4,8 +4,8 @@
 </a><a href="https://www.linkedin.com/in/beatriz-martins-1740b3277">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://leetcode.com/Beatriz2005/" />
+<a href="https://leetcode.com/Beatriz2005/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
 <br />
 
