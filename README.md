@@ -1,7 +1,6 @@
 ### Hi there I'm Beatriz!👋
 I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar<br>
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-martins-1740b3277) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan)
 
 <a href="https://www.linkedin.com/in/beatriz-martins-1740b3277">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,6 +8,8 @@ I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar<br>
 <a href="https://leetcode.com//">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+
+
 <!--
 **Beatriz2005/Beatriz2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
