@@ -9,6 +9,19 @@
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+<br /> 
+
+## Languages
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+## Tools:
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+
 
 <!--
 **Beatriz2005/Beatriz2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
