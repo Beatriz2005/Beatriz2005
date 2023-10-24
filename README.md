@@ -1,9 +1,6 @@
 <img src="Padrão, Gráfico, Papel De Parede Imagens de fundo gratuitas, Grid Design Tecnologia Futurista Background Foto PNG e vetores de fundo.jpg"/>
 <h1 align="center">Hi 👋, I'm Beatriz Martins</h1>
-<h3 align="center">I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar</h3>
-
-<ul> 📫 How to reach me: <ul></ul>
-
+<h3 align="center">I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar</h3></h3>
 
 </a><a href="https://www.linkedin.com/in/beatriz-martins-1740b3277">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
