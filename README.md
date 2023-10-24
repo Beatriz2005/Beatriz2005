@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
 <h1 align="center">Hi 👋, I'm Beatriz Martins</h1>
-<h3 align="center">I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar</h3></h3>
 
 </a><a href="https://www.linkedin.com/in/beatriz-martins-1740b3277">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,6 +7,14 @@
 <a href="https://leetcode.com//">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<br />
+
+<h3 align="center">I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar</h3></h3>
+
+- 💻 I ~like~ **love** coding
+- 🔭 I’m currently working on simple games
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on opensource and group projects.
 
 <br /> 
 
