@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Beatriz Martins</h1>
 <h3 align="center">I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar</h3>
 
-<ul> 📫 How to reach me: <ul></ul>
+<ul> 📫 How to reach me: <ul></ul></ul>
 
 
 <a href="https://www.linkedin.com/in/beatriz-martins-1740b3277">
