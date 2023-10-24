@@ -1,7 +1,6 @@
 ### Hi there I'm Beatriz!👋
 I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar<br>
 ## 📫 How to reach me: 
-
 <a href="https://www.linkedin.com/in/beatriz-martins-1740b3277">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
