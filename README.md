@@ -1,4 +1,4 @@
-<img src="download.jpg"/>
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
 <h1 align="center">Hi 👋, I'm Beatriz Martins</h1>
 <h3 align="center">I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar</h3></h3>
 
