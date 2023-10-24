@@ -1,12 +1,7 @@
-### Hi there I'm [Akhil!](https://akhilgkrishnan.me)👋
-I'm Akhil G Krishnan, a 22-year old technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+### Hi there I'm Beatriz!👋
+I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar<br>
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
-<!--
-<ul>
-  <li>Computer Science | UFSCar
-  <li>Portuguese | English | French
-</ul>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/beatriz-martins-1740b3277) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan)
 
 <!--
 **Beatriz2005/Beatriz2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
