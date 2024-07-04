@@ -10,12 +10,6 @@
 <br />
 
 <h3 align="center">I'm Beatriz Martins, a 18-year old Computer Science Student at UFSCar</h3></h3>
-
-- 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on simple games
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on opensource and group projects.
-
 <br /> 
 
 ## Languages
