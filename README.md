@@ -11,5 +11,5 @@ I am passionate about technology and always seeking new challenges and knowledge
 If you have any questions or suggestions, feel free to reach out!
 
 - Email: beatrizmartins.conta@gmail.com
-- LinkedIn: [www.linkedin.com/in/beatrizf-martins]
+- LinkedIn: www.linkedin.com/in/beatrizf-martins
 
