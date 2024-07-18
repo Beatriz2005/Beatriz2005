@@ -10,6 +10,6 @@ I am passionate about technology and always seeking new challenges and knowledge
 
 If you have any questions or suggestions, feel free to reach out!
 
-[![pub package](OIP.jpg)](www.linkedin.com/in/beatrizf-martins) 
-[![Gmail](Gmail_icon_(2020).svg.png)](mailto:beatrizmartins.conta@gmail.com)
+[![Linkedin]()](https://www.linkedin.com/in/beatrizf-martins/) 
+[![Gmail]()](mailto:beatrizmartins.conta@gmail.com)
 
